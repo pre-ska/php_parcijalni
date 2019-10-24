@@ -1,3 +1,3 @@
-## Uvod u PHP i objektno orijentirano programiranje
+# Uvod u PHP i objektno orijentirano programiranje
 
-# parcijalni ispit
+## parcijalni ispit
