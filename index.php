@@ -1,11 +1,4 @@
 <?php
-  /*
-    Uvod u PHP i objektno orijentirano programiranje
-    Parcijalni ispit
-
-    izradio: Predrag Škaro
-  */
-
   include 'data.php';
   echo "<link rel='stylesheet' type='text/css' href='stil.css'>";
 
