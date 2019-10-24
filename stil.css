@@ -1,0 +1,38 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 50px;
+  color: #002f86;
+  background: linear-gradient(to right, #75a2d6, #c6e6ff);
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: 600;
+  padding: 12px 0;
+  color: white;
+  background-color: #1c487a;
+}
+
+tr:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+td {
+  padding: 10px 0;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+select {
+  background-color: transparent;
+  border: none;
+}
+
+p {
+  float: right;
+  margin: 50px 50px 0 0;
+}
