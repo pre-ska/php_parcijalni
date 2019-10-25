@@ -15,7 +15,7 @@
           <td>".$niz['prezime']."</td>
           <td>".$niz['ime']."</td>
           <td>".$niz['datum']."</td>
-          <td><select>";
+          <td><select autocomplete='off'>";
 
     if ($niz['placeno'] === 'Da') 
       echo "<option selected='selected' value='da'>Da</option>
